@@ -1,5 +1,5 @@
 module "s3" {
-  source = "https://github.com/KingSolomonworld/s3-backend-repo.git//s3-module?ref=v1.2.1"
+  source = "https://github.com/KingSolomonworld/s3-backend-repo.git//s3-module?ref=v1.1.2"
 }
 
 #Backend configuration
