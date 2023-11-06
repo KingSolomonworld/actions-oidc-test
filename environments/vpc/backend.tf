@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket  = "landmark-automation-kenmak"
+    bucket  = "bootcamp32-dev-95"
     region  = "us-west-2"
     key     = "oidc/terraform.tfstate"
     encrypt = true
